@@ -10,7 +10,7 @@ This document describes Pod2Readme.pl version 0.01
 
 =head1 SYNOPSIS
 
-    $ perl Pod2Readme.pl; # Execute on root directory of module.
+    $ perl Pod2Readme.pl   # Execute on root directory of module.
 
 =head1 DESCRIPTION
 
@@ -20,6 +20,9 @@ in README.pod. This script make new README.pod as necessary.
 This script must be executed on root directory of module.
 (It means "please execute on directory which contains MANIFEST".
 Because this script gets module location from MANIFEST file.)
+
+=head1 NOTICE
+pm file (Pod2Readme.pm) and MANIFEST file in this repository are dummy. They are only used to test.
 
 =head1 DEPENDENCIES
 
