@@ -1,0 +1,4 @@
+Pod2Readme.pl
+README.pod
+lib/Pod2Readme.pm
+t/00.pod_to_readme.t
